@@ -27,7 +27,7 @@ export default {
             </div>
             <div class="rectangle-form flex justify-center items-center">
                 <div class="flex flex-col h-[70%] w-[70%] space-y-5">
-                    <div class="text-[#006cb0] text-[24px] font-[700]">Hi! Let’s sign in</div>
+                    <div class="text-[#006cb0] text-[24px] font-[700]">Enter new password</div>
                     <div class="space-y-5 pt-5 pb-10">
                         <div class="sm:col-span-4">
                             <div class="mt-2">
