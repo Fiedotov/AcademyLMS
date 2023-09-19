@@ -16,7 +16,6 @@ export default {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins' },
     ]
   },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '~/assets/css/main.css'
